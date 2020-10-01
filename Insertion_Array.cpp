@@ -20,7 +20,7 @@ void insert (int arr[],int n ,int target , int position){
 
 }
 
-int main() 
+int main() {
     
     int arr [100];
 
