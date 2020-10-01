@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
 void insert (int arr[],int n ,int target , int position){
 
