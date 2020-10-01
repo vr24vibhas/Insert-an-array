@@ -4,7 +4,7 @@ using namespace std;
 void insert (int arr[],int n ,int target , int position){
 
    int count =0;
-   //over-write elements present after this position 
+ 
    for(int i=n+1;count<(n+1)-position;i--){
        count++;
        arr[i]=arr[i-1];
